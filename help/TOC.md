@@ -5,12 +5,12 @@ user-guide-description: Se självstudiekurserna för Experience League på Adobe
 source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 
-# Självstudiekurser för Adobe [!DNL GenStudio for Performance Marketing] {#tutorials}
+# Adobes [!DNL GenStudio for Performance Marketing] självstudiekurser {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing] självstudier](overview.md)
 + Mata in ditt varumärke {#inputing-your-brand}
