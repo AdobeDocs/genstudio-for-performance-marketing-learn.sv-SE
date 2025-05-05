@@ -20,4 +20,4 @@ ht-degree: 83%
 
 I den här videon ges en detaljerad förklaring av hur du anger företagets riktlinjer för varumärken, produkter och viktiga marknadsföringspersonaler i GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439375/?learn=on&enablevpops&captions=swe)

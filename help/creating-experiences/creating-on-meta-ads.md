@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Följ en stegvis produktvägledning om hur du skapar en metaannons i [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435082/?learn=on&captions=swe)

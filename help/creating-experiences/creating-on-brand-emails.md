@@ -20,4 +20,4 @@ ht-degree: 0%
 
 En stegvis förklaring av hur du skapar e-postmeddelanden för marknadsföring under varumärke med Adobe [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435071/?learn=on&captions=swe)
