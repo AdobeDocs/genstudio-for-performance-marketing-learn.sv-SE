@@ -1,5 +1,5 @@
 ---
-title: Skapa varumärkesanpassade metaannonser
+title: Skapa varumärkesanpassade Meta-annonser
 description: Följ en steg-för-steg-produktdemo för att skapa en metaannons i  [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Följ en stegvis produktvägledning om hur du skapar en metaannons i [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435082/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
