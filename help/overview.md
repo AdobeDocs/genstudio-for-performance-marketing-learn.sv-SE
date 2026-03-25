@@ -1,25 +1,26 @@
 ---
 title: GenStudio for Performance Marketing självstudiekurser
-description: Se videokurser om GenStudio for Performance Marketing funktioner. Lär dig hur du snabbt skapar varumärkestillgångar, genererar variationer och optimerar upplevelser.
+description: Se videokurser om GenStudio for Performance Marketing funktioner. Lär dig hur du snabbt kan skapa varumärkesanpassade resurser, generera variationer och optimera upplevelser.
 role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 61a80be078be8ef78113c8fb472c8fee80334001
+source-git-commit: 733b1be3d4ff8ec93ec4f2e8a1cc89ddbb1b8646
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 40%
+source-wordcount: '174'
+ht-degree: 7%
 
 ---
 
-# Adobes [!DNL GenStudio for Performance Marketing] självstudiekurser
+# Adobe [!DNL GenStudio for Performance Marketing] självstudier
 
 
 Få ut det mesta av [!DNL GenStudio for Performance Marketing]. Använd de här självstudiekurserna för att lära dig funktionerna i [!DNL GenStudio for Performance Marketing] och dra nytta av fördelarna för ditt företag.
 
 ## Införa ert varumärke
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./inputting-your-brand/inputting-brand-product-persona.md
 
@@ -31,7 +32,7 @@ Få ut det mesta av [!DNL GenStudio for Performance Marketing]. Använd de här 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="Märk, produkt och persona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439375/?captions=swe&format=jpeg&nocache=1732633204686" alt="Märk, produkt och persona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="Märk, produkt och persona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,7 +55,8 @@ Få ut det mesta av [!DNL GenStudio for Performance Marketing]. Använd de här 
 
 ## Skapa upplevelser
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./creating-experiences/creating-on-brand-emails.md
 * ./creating-experiences/creating-on-meta-ads.md
@@ -67,7 +69,7 @@ Få ut det mesta av [!DNL GenStudio for Performance Marketing]. Använd de här 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="Skapa e-postmeddelanden om varumärken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435071/?captions=swe&format=jpeg&nocache=1732633205780" alt="Skapa e-postmeddelanden om varumärken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="Skapa e-postmeddelanden om varumärken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +92,7 @@ Få ut det mesta av [!DNL GenStudio for Performance Marketing]. Använd de här 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-meta-ads.md" title="Skapa varumärkesanpassade Meta-annonser" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435082/?captions=swe&format=jpeg&nocache=1732633205785" alt="Skapa varumärkesanpassade Meta-annonser"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Skapa varumärkesanpassade Meta-annonser"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +102,7 @@ Få ut det mesta av [!DNL GenStudio for Performance Marketing]. Använd de här 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="Skapa varumärkesanpassade Meta-annonser">Skapa varumärkesanpassade Meta-annonser</a>
                     </p>
-                    <p class="is-size-6">Följ en stegvis produktvägledning om hur du skapar en metaannons i [!DNL GenStudio for Performance Marketing].</p>
+                    <p class="is-size-6">Följ en steg-för-steg-produktvägledning om hur du skapar en metaannons i [!DNL GenStudio for Performance Marketing].</p>
                 </div>
                 <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
@@ -141,7 +143,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435071?captions=swe&format=jpeg" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -154,7 +156,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435082?captions=swe&format=jpeg" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
@@ -172,6 +174,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=sv-SE)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 -->
